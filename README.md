@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, nosotros somos Grupo Conecta</h1>
 <h3 align="center">Transformamos líneas de código en soluciones que revolucionan tu mercado.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grupo-conecta" alt="grupo-conecta" /></a> </p>
 
 - 💻 Nuestra especialidad **Desarrollamos software a medida utilizando Laravel, PHP, MySQL, PostgreSQL, HTML, CSS, JavaScript, Tailwind CSS, Java, Python para tratamiento de datos y Power BI.**
 
